@@ -1,0 +1,1 @@
+# cadastro-grupo-afinidade-front
